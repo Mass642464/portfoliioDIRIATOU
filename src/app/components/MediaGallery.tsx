@@ -42,9 +42,30 @@ export function MediaGallery() {
       caption: "Moments partagés"
     },
     {
+      type: "image",
+      url: "/images/gallery/im9.jpeg",
+      caption: "Moments partagés"
+    },
+    {
+      type: "image",
+      url: "/images/gallery/im10.jpeg",
+      caption: "Moments partagés"
+    },
+    {
+      type: "image",
+      url: "/images/gallery/im11.jpeg",
+      caption: "Moments partagés"
+    },
+    {
       type: "video",
       url: "/images/gallery/video1.mp4",
       thumbnail: "/images/gallery/im1.jpeg",
+      caption: "Vidéo des activités"
+    },
+    {
+      type: "video",
+      url: "/images/gallery/video3.mp4",
+      thumbnail: "/images/gallery/im2.jpeg",
       caption: "Vidéo des activités"
     },
     {
